@@ -2,6 +2,9 @@
   "name": "bundle",
   "version": "1.0.0",
   "description": "",
+  "main": "dist/index.js",
+  "module": "dist/index.njs",
+  "types": "dist/index.d.ts",
   "exports": {
     ".": {
       "import": "./dist/index.Mjs",
