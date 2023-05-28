@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 1"
+    "build": ''
+  },
+  "dependencies": {
+    "bundle": "workspace.*",
+    "magic-string": "^0.25.7"
   },
   "keywords": [],
   "author": "",
