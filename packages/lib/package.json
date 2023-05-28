@@ -1,0 +1,16 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 1"
+  },
+  "dependencies": {
+    "acorn": "^8.5.0",
+    "magic-string": "^0.25.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
