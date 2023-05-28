@@ -1,16 +1,16 @@
 {
     "folders": [
-      {
-        "name": "root",
-        "path": ".."
-      },
-      {
-        "name": "example",
-        "path": "../packages/example"
-      },
-      {
-        "name": "bundle",
-        "path": "../packages/bundle"
-      },
+        {
+            "name": "root",
+            "path": ".."
+        },
+        {
+            "name": "bundle",
+            "path": "../packages/bundle"
+        },
+        {
+            "name": "example",
+            "path": "../packages/example"
+        }
     ]
   }

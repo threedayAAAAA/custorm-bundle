@@ -1,12 +1,12 @@
 import type { BundleConfig } from './interface'
-// const { Bundle } = require("./Bundle");
+
+import { Bundle } from './Bundle';
 
 export const bundle = (config: BundleConfig) => {
-//   const bundle = new Bundle({
-//     config,
-//   });
+  const bundle = new Bundle({
+    config,
+  });
 
-//   bundle.build();
-
-//   return bundle;
+  bundle.build();
+  return bundle;
 };

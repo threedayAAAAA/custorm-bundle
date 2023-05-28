@@ -19,7 +19,7 @@
     "dist"
   ],
   "dependencies": {
-    "acorn": "^8.5.0",
+    "acorn": "^8.8.2",
     "magic-string": "^0.25.7"
   },
   "keywords": [],

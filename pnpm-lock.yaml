@@ -7,7 +7,7 @@ importers:
 
   packages/bundle:
     specifiers:
-      acorn: ^8.5.0
+      acorn: ^8.8.2
       magic-string: ^0.25.7
       tsup: ^6.7.0
       typescript: ^5.0.4

@@ -5,6 +5,6 @@ bundle({
   input: path.resolve(__dirname, "index.js"),
   output: {
     format: "es",
-    filename: "lib/helloworld.js",
+    filename: "builded.js",
   },
 });
