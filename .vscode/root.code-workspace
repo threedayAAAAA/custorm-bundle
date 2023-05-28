@@ -9,8 +9,8 @@
         "path": "../packages/example"
       },
       {
-        "name": "lib",
-        "path": "../packages/lib"
+        "name": "bundle",
+        "path": "../packages/bundle"
       },
       {
         "name": "test",

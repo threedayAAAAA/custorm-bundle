@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": ''
+    "build": "node build.js"
   },
   "dependencies": {
-    "bundle": "workspace.*",
-    "magic-string": "^0.25.7"
+    "bundle": "workspace:1.0.0"
   },
   "keywords": [],
   "author": "",

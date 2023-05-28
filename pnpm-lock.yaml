@@ -5,13 +5,22 @@ importers:
   .:
     specifiers: {}
 
-  packages/lib:
+  packages/bundle:
     specifiers:
       acorn: ^8.5.0
       magic-string: ^0.25.7
     dependencies:
       acorn: 8.8.2
       magic-string: 0.25.9
+
+  packages/example:
+    specifiers:
+      bundle: workspace:1.0.0
+    dependencies:
+      bundle: link:../bundle
+
+  packages/test:
+    specifiers: {}
 
 packages:
 
