@@ -12,9 +12,5 @@
         "name": "bundle",
         "path": "../packages/bundle"
       },
-      {
-        "name": "test",
-        "path": "../packages/test"
-      },
     ]
   }
